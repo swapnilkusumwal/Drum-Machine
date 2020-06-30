@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAOA,KACE,yEAEF,CAVA,KACE,QAAS,CACT,8BAA+B,CAC/B,kCAAmC,CACnC,iCACF","file":"main.f0371e53.chunk.css","sourcesContent":["body {\n  margin: 0;\n  font-family: 'Pacifico',cursive;\n  -webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n}\n\n"]}
